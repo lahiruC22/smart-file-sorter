@@ -1,0 +1,13 @@
+# Build artifacts
+build/
+*.o
+*.a
+*.so
+*.dylib
+*.dll
+
+# Executables
+*.exe
+
+# Other
+.DS_Store
